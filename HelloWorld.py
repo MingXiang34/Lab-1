@@ -1,1 +1,1 @@
-print ("ET0 - DevOps")
+print ("ET0 - DevOps for AloT")
